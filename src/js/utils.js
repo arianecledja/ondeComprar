@@ -83,8 +83,24 @@ export const products = [
         id: '11',
         name: 'Kit com 5 Suportes para celular em Formato de Cadeira',
         photo: 'kit-5-apoio-para-celular.png',
-        link: 'ttps://shope.ee/5V2xanWw3H',
+        link: 'https://shope.ee/5V2xanWw3H',
         description: 'Suportes para celular de plástico no formato de uma cadeira nas cores amarelo e rosa.',
+        categories: ['']
+    },
+    {
+        id: '12',
+        name: 'Kit 6 Formas AirFryer ',
+        photo: 'kit-6-formas-airfryer.jpeg',
+        link: 'https://shope.ee/4fWPksjDgg',
+        description: 'Kit com 6 formas de silicone de tamanhos variados',
+        categories: ['']
+    },
+    {
+        id: '13',
+        name: 'Tela plástica para Bolsa',
+        photo: 'tela-plastica-bolsa-de-croche.jpeg',
+        link: 'https://shope.ee/509UX4PRTs',
+        description: 'Folhas de tela plástica transparente',
         categories: ['']
     }
 ]
