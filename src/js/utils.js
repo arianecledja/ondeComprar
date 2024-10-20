@@ -99,7 +99,7 @@ export const products = [
         id: '13',
         name: 'Tela plástica para Bolsa',
         photo: 'tela-plastica-bolsa-de-croche.jpeg',
-        link: 'https://shope.ee/509UX4PRTs',
+        link: 'https://s.shopee.com.br/2VZqx4RT5s',
         description: 'Folhas de tela plástica transparente',
         categories: ['']
     }
