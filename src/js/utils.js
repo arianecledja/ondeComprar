@@ -67,7 +67,7 @@ export const products = [
         id: '9',
         name: 'Triturador e Picador de Legumes',
         photo: 'triturador-e-picador-de-legumes.jpg',
-        link: 'https://shope.ee/1AtyQ4FcYa',
+        link: 'https://s.shopee.com.br/9f31TgNOhy',
         description: 'Triturador e Picador de Legumes nas cores verde claro e branco',
         categories: ['']
     },
